@@ -5938,7 +5938,7 @@ MonoBehaviour:
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 4
+  m_fontStyle: 0
   m_HorizontalAlignment: 1
   m_VerticalAlignment: 256
   m_textAlignment: 65535
@@ -12155,10 +12155,10 @@ RectTransform:
   m_Children:
   - {fileID: 1421427884}
   - {fileID: 1334061388}
+  - {fileID: 51583040}
   - {fileID: 483987817}
   - {fileID: 1342949064}
   - {fileID: 1683001060}
-  - {fileID: 51583040}
   - {fileID: 1380703692}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
